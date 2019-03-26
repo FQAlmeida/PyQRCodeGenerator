@@ -124,6 +124,6 @@ dmypy.json
 
 .vs_code/
 data/
-data/tests
+data/tests/*.png
 __pycache__/
 
